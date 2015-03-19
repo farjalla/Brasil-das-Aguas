@@ -21,6 +21,6 @@ qqnorm (log(brasil$Bacteria))
 ks.test (log(brasil$Bacteria), pnorm)
 shapiro.test (log(brasil$Bacteria))
 
-# ambos, Shapiro e K-S, indicaram que mesmo os dados logaritmzados não são normais
+# ambos, Shapiro e K-S, indicaram que mesmo os dados logaritmizados não são normais
 
 
